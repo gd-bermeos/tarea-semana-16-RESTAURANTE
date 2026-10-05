@@ -130,7 +130,7 @@ La aplicación conserva la gestión de productos y una sección de ventas para m
 
 ## Recursos visuales
 
-La carpeta `assets/` contiene un logo y un ícono en formato SVG para mantener los recursos visuales separados del código.
+La carpeta `assets/` contiene un logo y un ícono en formato XBM, compatibles con Tkinter para mantener los recursos visuales separados del código.
 
 ## Credencial administrativa de prueba
 
