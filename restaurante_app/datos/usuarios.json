@@ -1,0 +1,5 @@
+[
+  {"id":1,"nombre":"Administrador","usuario":"admin","contrasena":"admin123","rol":"Administrador"},
+  {"id":2,"nombre":"Empleado Principal","usuario":"empleado","contrasena":"1234","rol":"Empleado"},
+  {"id":3,"nombre":"Cliente Demo","usuario":"cliente","contrasena":"1234","rol":"Cliente"}
+]
