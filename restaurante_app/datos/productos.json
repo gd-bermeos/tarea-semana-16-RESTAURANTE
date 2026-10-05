@@ -1,0 +1,7 @@
+[
+  {"id":1,"nombre":"Hamburguesa clásica","categoria":"Comida","precio":4.5,"cantidad":20},
+  {"id":2,"nombre":"Pizza personal","categoria":"Comida","precio":5.75,"cantidad":15},
+  {"id":3,"nombre":"Papas fritas","categoria":"Acompañamiento","precio":2.5,"cantidad":30},
+  {"id":4,"nombre":"Jugo natural","categoria":"Bebida","precio":2.0,"cantidad":25},
+  {"id":5,"nombre":"Postre de chocolate","categoria":"Postre","precio":3.0,"cantidad":12}
+]
